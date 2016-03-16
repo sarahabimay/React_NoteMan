@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Boris",
+        "title": "http://documentcloud.github.io/backbone/",
+        "text": "Boris's note"
+    },
+    {
+        "name": "AngularJS",
+        " title": "https://angularjs.org/",
+        "text": "OOh Angular uses Templates sooo not Components.."
+    },
+    {
+        "name": "jQuery",
+        "title": "http://jquery.com/",
+        "text": "Remember this?"
+    },
+    {
+        "name": "Prototype",
+        "title": "http://www.prototypejs.org/",
+        "text": "Not Pseudo-classical says Doug"
+    },
+    {
+        "name": "React",
+        "title": "http://facebook.github.io/react/",
+        "text": "This is what we are working on this week"
+    },
+    {
+        "name": "Ember",
+        "title": "http://emberjs.com/",
+        "text": "A framework.."
+    },
+    {
+        "name": "Knockout.js",
+        "title": "http://knockoutjs.com/",
+        "text": "Not yet.."
+    },
+    {
+        "name": "Dojo",
+        "title": "http://dojotoolkit.org/",
+        "text": "Nope.."
+    },
+    {
+        "name": "Mootools",
+        "title": "http://mootools.net/",
+        "text": "Heard of it.."
+    },
+    {
+        "name": "Underscore",
+        "title": "http://documentcloud.github.io/underscore/",
+        "text": "Templating again.."
+    },
+    {
+        "name": "Lodash",
+        "title": "http://lodash.com/",
+        "text": "Extended array functionality.."
+    },
+    {
+        "name": "Moment",
+        "title": "http://momentjs.com/",
+        "text": "Time and how to handle it."
+    },
+    {
+        "name": "Express",
+        "title": "http://expressjs.com/",
+        "text": "For handy endpoint routing.."
+    },
+    {
+        "name": "Koa",
+        "title": "http://koajs.com/",
+        "text": ""
+    },
+    {
+        "name": "sarah",
+        "title": "my title",
+        "text": "my text"
+    },
+    {
+        "name": "React",
+        "title": "http://facebook.github.io/react/",
+        "text": "This is what we are working on this week"
+    },
+    {
+        "name": "sarah",
+        "title": "demo",
+        "text": "what to say? Please Work!"
+    },
+    {
+        "name": "sarah",
+        "title": "demo2",
+        "text": "please work"
+    },
+    {
+        "name": "sarah",
+        "title": "uhg",
+        "text": "work"
+    }
+]
